@@ -1,9 +1,15 @@
 # sandbox
+
 Hola
 Adios
+
 Proyecto para hacer pruebas
-##Trabajando con merge
+
+##Trabajando con git merge
+
 
 Editar lo mismo en distintas ramas es peligroso
 
 ##Usando Git pull
+
+
