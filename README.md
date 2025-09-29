@@ -3,14 +3,6 @@
 <<<<<<< HEAD
 Proyecto para hacer pruebas
 
+##Trabajando con git merge
 
-=======
-
-Proyecto para hacer pruebas
-#Trabajando con merge
->>>>>>> dev
-=======
-
-Proyecto para hacer pruebas
-#Trabajando con merge
->>>>>>> dev
+Trabajar con ramas distintas es muy peligroso
